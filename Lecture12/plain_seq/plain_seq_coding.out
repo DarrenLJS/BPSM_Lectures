@@ -1,0 +1,8 @@
+# BLASTX 2.17.0+
+# Query: 108
+# Database: nem
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+108	gi|402581677|gb|EJW75624.1|	52.632	19	9	0	34	90	68	86	2.5	24.6
+108	gi|373218841|emb|CCD63632.1|	47.368	19	7	1	52	108	39	54	8.4	23.5
+# BLAST processed 1 queries
