@@ -9,5 +9,5 @@ subprocess.call(f"cp {aj223353_coding} .", shell=True)
 
 subprocess.call("./L13_E1.py", shell=True)
 subprocess.call("./L13_E2.py", shell=True)
-#subprocess.call("./L13_E3.py", shell=True)
-#subprocess.call("./L13_E4.py", shell=True)
+subprocess.call("./L13_E3.py", shell=True)
+subprocess.call("./L13_E4.py", shell=True)
