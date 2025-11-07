@@ -1,2 +1,5 @@
 message_to*
 .nfs*
+.venv
+__pycache__
+*.pyc
