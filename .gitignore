@@ -3,3 +3,5 @@ message_to*
 .venv
 __pycache__
 *.pyc
+.snakemake
+My_snakeouts
